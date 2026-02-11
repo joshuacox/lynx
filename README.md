@@ -322,6 +322,15 @@
 - https://www.home-assistant.io/integrations/yamaha
 - https://www.home-assistant.io/docs/configuration/
 
+# MQTT
+
+- https://www.emqx.com/en/blog/connect-to-mqtt-broker-with-websocket
+- https://github.com/nopnop2002?tab=repositories&q=mqtt&type=&language=&sort=
+- https://github.com/espressif/esp-idf/tree/v5.5.1/examples/protocols/mqtt/wss
+- https://github.com/espressif/esp-idf/tree/v5.5.1/examples/protocols/mqtt5
+- https://discuss.kubernetes.io/t/exposing-mqtt-broker/10222/3
+- https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html
+
 # Music 
 
 - https://www.navidrome.org/
@@ -333,6 +342,12 @@
 - https://github.com/joshuacox/namgen/blob/main/fantasyloop.sh
 - https://github.com/joshuacox/namgen/blob/main/score.csv
 - https://github.com/joshuacox/name-generator/tree/main
+
+# NextJS
+
+- https://nextjs.org/docs/app/guides/self-hosting
+- https://nextjs.org/docs/app/getting-started/installation
+- https://nextjs.org/docs/pages/guides/static-exports
 
 # Omarchy / Arch
 
@@ -402,6 +417,11 @@
 - https://app.maltego.com/
 - https://academy.maltego.com/?utm_medium=portal&utm_source=userguiding
 - https://www.runzero.com
+- https://headscale.net/stable/setup/install/official/#using-standalone-binaries-advanced
+- https://tailscale.com/kb/1118/custom-derp-servers
+- https://github.com/juanfont/headscale/issues?q=is%3Aissue%20state%3Aclosed%20helm
+- https://github.com/ohdearaugustin/charts/tree/topic/headscale/charts
+- https://github.com/joshuacox/gabe565-charts
 
 # Storage
 
@@ -483,8 +503,12 @@
 - https://gist.github.com/mjkstra/96ce7a5689d753e7a6bdd92cdc169bae#introduction
 - https://forum.opnsense.org/index.php?topic=48076.15
 - https://www.reddit.com/r/sysadmin/comments/uc71wm/how_to_access_old_ilo_with_brokenunsupported/
-
 - https://www.evennia.com/docs/latest/Howtos/Beginner-Tutorial/Beginner-Tutorial-Overview.html
 - https://antmedia.io/ai-hackathon/
 - https://docs.antmedia.io/guides/clustering-and-scaling/kubernetes/prepare-environment-to-deploy-ams-at-kubernetes/
 - https://github.com/yt-dlp/yt-dlp/issues/15814
+- https://killercoda.com/cka
+- https://docs.opencti.io/latest/deployment/integration-manager/installation/
+- https://docs.opencti.io/latest/deployment/integration-manager/configuration/
+- https://pyimagesearch.com/2025/10/27/build-a-vlc-playlist-generator-with-smolvlm-for-video-highlight-tagging/?utm_source=Drip&utm_medium=Email&utm_campaign=WeeklyUpdate&utm_content=27Oct2025NonUnivLink4
+
