@@ -6,10 +6,12 @@
 - https://sillytavern.app/
 - https://docs.litellm.ai/docs/proxy/deploy#quick-start
 - https://github.com/ggml-org/whisper.cpp
+- https://www.continue.dev/
 - https://github.com/crewsaidarr
 - https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak
 - https://github.com/CrewsAIdarr/CrewsAIdarr
 - https://docs.crewai.com/en/concepts/llms#3-direct-code
+- https://gemini.google.com/app
 - https://github.com/CrewsAIdarr/polyglot-benchmark
 - https://github.com/Aider-AI/aider/blob/main/benchmark/README.md
 - https://github.com/Aider-AI/conventions/blob/main/nextjs-ts/CONVENTIONS.md
@@ -100,16 +102,25 @@
 - https://github.com/argoproj/argo-cd/blob/master/docs/faq.md#i-forgot-the-admin-password-how-do-i-reset-it
 - https://github.com/argoproj/argo-cd/discussions/7371
 - https://argo-cd.readthedocs.io/en/stable/faq/#i-forgot-the-admin-password-how-do-i-reset-it
+- https://github.com/argoproj/argo-cd/issues/26265#issuecomment-3850682322
 - https://www.shellhacks.com/argocd-reset-admin-password/
 - https://github.com/argoproj/argo-cd/discussions/20597
 - https://github.com/argoproj/argo-cd/issues/21150
 - https://github.com/argoproj/argo-cd/discussions/20597
+- https://github.com/argoproj/argo-cd/issues/26265#event-22545288654
+- https://github.com/argoproj/argo-cd/issues/5704
+
+# Austin
+
+- https://opencoworking.capitalfactory.com/
+- https://capitalfactory.com/online/
 
 # Authz
 
 - https://stackoverflow.com/questions/32735406/kerberos-kinit-resource-temporarily-unavailable-while-getting-initial-credentia/78612595#78612595
 - https://docs.opnsense.org/manual/how-tos/wireguard-client.html
 - https://www.authelia.com/integration/kubernetes/chart/
+- https://www.keycloak.org/keycloak-benchmark/kubernetes-guide/latest/architecture
 - https://www.keycloak.org/getting-started/getting-started-kube
 - https://forum.opnsense.org/index.php?topic=23339.0
 - https://desec.io/tokens
@@ -152,6 +163,7 @@
 # Embedded
 
 - https://x.com/internetofshit
+- https://components.espressif.com/components/espp/rtsp/versions/1.0.34/readme
 - https://www.seeedstudio.com/blog/upcomingevents/?srsltid=AfmBOoo0SK16pNCvcPhixIBAzZD7OY2fJKXj_JTxTBwK34OgufrXoHtI
 - https://developer.espressif.com/blog/2025/10/oop_with_c/
 - https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/
@@ -178,6 +190,7 @@
 - https://fossbilling.org/docs/getting-started/docker
 - https://github.com/FOSSBilling/FOSSBilling/issues/3224
 - https://fossbilling.org/docs/developing-fossbilling/guides/creating-a-theme
+- https://fossbilling.org/docs/getting-started/building
 
 # HestiaCP
 
@@ -196,6 +209,8 @@
 - https://istio.io/latest/docs/setup/additional-setup/config-profiles/
 - https://istio.io/latest/docs/ambient/overview/
 - https://istio.io/latest/docs/ops/integrations/certmanager/
+- https://github.com/istio/istio
+- https://istio.io/latest/docs/ambient/getting-started/deploy-sample-app/
 
 # jupyter
 
@@ -213,6 +228,7 @@
 - https://k3s.io/
 - https://docs.k3s.io/installation/requirements#prerequisites
 - https://metallb.universe.tf/configuration/k3s/
+- https://github.com/k3d-io/k3d/issues/982
 
 # K8S / Helm
 
@@ -231,11 +247,17 @@
 - https://kubevela.io/docs/
 - https://fluxcd.io/
 - https://vite.dev/
+- https://gateway-api.sigs.k8s.io/guides/getting-started/migrating-from-ingress/
+- https://github.com/kubernetes-sigs/ingress2gateway
 
 # Kubeflow / Airflow
 
 - https://www.kubeflow.org/docs/components/central-dash/access/
 - https://www.kubeflow.org/docs/components/pipelines/
+- https://github.com/discordianfish/kubeflow-manifests/blob/master/dex-auth/README.md
+- https://insights.linuxfoundation.org/project/kubeflow?timeRange=past365days&start=2025-02-04&end=2026-02-04
+- https://github.com/discordianfish/kubeflow-manifests/blob/master/dex-auth/README.md#work-around-a-way-to-use-self-signed-certificates
+- https://github.com/kubeflow/manifests/tree/master/common/dex
 - https://github.com/kubeflow/examples/tree/master/mnist#vanilla
 - https://github.com/opendatahub-io/manifests
 - https://canonical.com/mlops/kubeflow
@@ -373,6 +395,14 @@
 - https://saltlake.littleamerica.com/
 - https://www.onthesnow.com/ikon-pass/skireport
 
+# Security 
+
+- https://www.maltego.com/pricing/
+- https://www.maltego.com/use-for-free/
+- https://app.maltego.com/
+- https://academy.maltego.com/?utm_medium=portal&utm_source=userguiding
+- https://www.runzero.com
+
 # Storage
 
 - https://github.com/orgs/openebs/discussions/4149
@@ -386,6 +416,15 @@
 - https://github.com/seaweedfs/seaweedfs/tree/master/k8s/charts/seaweedfs
 - https://github.com/orgs/openebs/discussions/4149
 - https://github.com/seaweedfs/seaweedfs?tab=readme-ov-file#quick-start-with-weed-mini
+
+# Surveillance
+
+- https://fosspost.org/open-source-cctv-ip-camera-monitoring-software
+- https://github.com/blakeblackshear/frigate
+- https://github.com/roflcoopter/viseron
+- https://github.com/SentryShot/sentryshot
+- https://codeberg.org/SentryShot/sentryshot/src/branch/master/docs/1_Installation.md
+- https://github.com/seydx/camera.ui
 
 # Tilt
 
@@ -401,6 +440,7 @@
 - https://github.com/jesseduffield/lazygit
 - https://realpython.com/python-textual/#creating-your-first-textual-app
 - https://github.com/tarkah/tickrs/wiki/Config-file
+- https://github.com/ulyssa/iamb
 
 # Vigilant-Octo-Waffle
 
@@ -443,3 +483,8 @@
 - https://gist.github.com/mjkstra/96ce7a5689d753e7a6bdd92cdc169bae#introduction
 - https://forum.opnsense.org/index.php?topic=48076.15
 - https://www.reddit.com/r/sysadmin/comments/uc71wm/how_to_access_old_ilo_with_brokenunsupported/
+
+- https://www.evennia.com/docs/latest/Howtos/Beginner-Tutorial/Beginner-Tutorial-Overview.html
+- https://antmedia.io/ai-hackathon/
+- https://docs.antmedia.io/guides/clustering-and-scaling/kubernetes/prepare-environment-to-deploy-ams-at-kubernetes/
+- https://github.com/yt-dlp/yt-dlp/issues/15814
