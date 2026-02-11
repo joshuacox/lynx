@@ -164,6 +164,7 @@
 
 - https://x.com/internetofshit
 - https://components.espressif.com/components/espp/rtsp/versions/1.0.34/readme
+- https://github.com/espressif/esp-detection
 - https://www.seeedstudio.com/blog/upcomingevents/?srsltid=AfmBOoo0SK16pNCvcPhixIBAzZD7OY2fJKXj_JTxTBwK34OgufrXoHtI
 - https://developer.espressif.com/blog/2025/10/oop_with_c/
 - https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/
@@ -171,6 +172,7 @@
 - https://forums.freertos.org/t/upload-files-to-aws-s3-bucket-from-esp/12931/4
 - https://docs.nats.io/running-a-nats-service/nats-kubernetes
 - https://nats.io/
+- https://github.com/espressif/esp-detection/issues/8#issuecomment-3384281654
 - https://github.com/limengdu/SeeedStudio-XIAO-ESP32S3-Sense-camera/blob/main/record_video/camera_pins.h
 - https://github.com/espressif/esp32-camera/pull/808/files
 - https://github.com/espressif/esp-who
@@ -423,6 +425,13 @@
 - https://github.com/ohdearaugustin/charts/tree/topic/headscale/charts
 - https://github.com/joshuacox/gabe565-charts
 
+# Steamdeck
+
+- https://github.com/airscripts/awesome-steam-deck
+- https://gitlab.com/popsulfr/steamos-btrfs
+- https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot
+- https://www.ign.com/articles/legion-go-s-vs-steam-deck
+
 # Storage
 
 - https://github.com/orgs/openebs/discussions/4149
@@ -511,4 +520,3 @@
 - https://docs.opencti.io/latest/deployment/integration-manager/installation/
 - https://docs.opencti.io/latest/deployment/integration-manager/configuration/
 - https://pyimagesearch.com/2025/10/27/build-a-vlc-playlist-generator-with-smolvlm-for-video-highlight-tagging/?utm_source=Drip&utm_medium=Email&utm_campaign=WeeklyUpdate&utm_content=27Oct2025NonUnivLink4
-
