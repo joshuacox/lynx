@@ -1,2 +1,3 @@
 # lynx
-Interesting Links
+
+[Interesting Links](./lynx.md)
