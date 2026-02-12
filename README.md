@@ -150,6 +150,33 @@
 - https://github.com/Bokbot/roadmap
 - https://app.roboflow.com/bokbot/
 - https://www.thefarmerscupboard.com/blogs/chickens-poultry/best-automatic-chicken-coop-door
+- https://huggingface.co/spaces/IceKhoffi/ChickSense
+- https://wiki.seeedstudio.com/grove_vision_ai_v2_sscma/
+- https://app.roboflow.com/bokbot/bokbot/annotate
+- https://wiki.seeedstudio.com/ModelAssistant_Introduce_Quick_Start/#model-training
+- https://github.com/Seeed-Studio/ModelAssistant
+- https://wiki.seeedstudio.com/ModelAssistant_Introduce_Quick_Start/#getting-started
+- https://wiki.seeedstudio.com/vision_ai_v2_crowd_heat_map/
+- https://github.com/HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2/tree/main/EPII_CM55M_APP_S/app/scenario_app/ei_standalone_inferencing_camera
+- https://github.com/HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2/blob/main/README.md#how-to-build-the-firmware
+- https://docs.edgeimpulse.com/tools/clis/edge-impulse-cli/himax-flash-tool
+- https://docs.edgeimpulse.com/tools/clis/edge-impulse-cli/installation
+- https://studio.edgeimpulse.com/studio/824631/data-sources#
+- https://studio.edgeimpulse.com/studio/824273/versions?storepublic=1
+- https://studio.edgeimpulse.com/studio/824631/acquisition/training?page=1
+- https://github.com/HimaxWiseEyePlus/TAO_on_WE2
+- https://docs.nvidia.com/tao/tao-toolkit/text/tao_toolkit_api/api_deployment.html
+- https://github.com/HimaxWiseEyePlus/HIMAX_WE2_Rabboni
+- https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA
+- https://github.com/blastbeng/spotisub?tab=readme-ov-file
+- https://www.edgeimpulse.com/projects/all?project=chicken&limit=22&sort=-pageViewCount
+- https://studio.edgeimpulse.com/studio/827537/impulse/1/deployment
+- https://studio.edgeimpulse.com/studio/827540/clone
+- https://studio.edgeimpulse.com/studio/827541/clone
+- https://studio.edgeimpulse.com/studio/827543/clone
+- https://studio.edgeimpulse.com/public/428653/live
+- https://studio.edgeimpulse.com/public/392190/live
+- https://studio.edgeimpulse.com/public/747581/live
 - 
 # Comfy
 - 
@@ -255,6 +282,8 @@
 - https://makerkit.dev/docs/next-supabase-turbo/installation/clone-repository
 - https://github.com/kubeshark/kubeshark/tree/master/helm-chart
 - https://console.kubeshark.co/
+- https://trueforge.org/truetech/truecharts/guides/
+- https://trueforge.org/truetool
 - https://stackoverflow.com/questions/52321088/delete-key-from-configmap-in-kubernetes
 - https://opencost.io/docs/integrations/mcp
 - https://github.com/bevry/dorothy?tab=readme-ov-file
@@ -390,6 +419,9 @@
 
 - https://www.navidrome.org/
 - https://github.com/mxjeff/mpd-sima
+- https://www.navidrome.org/docs/usage/pids/
+- https://github.com/Blakeem/Navidrome-MCP?tab=readme-ov-file
+- https://www.navidrome.org/docs/usage/smartplaylists/
 
 # Name Generation
 
@@ -573,3 +605,5 @@
 - https://docs.opencti.io/latest/deployment/integration-manager/installation/
 - https://docs.opencti.io/latest/deployment/integration-manager/configuration/
 - https://pyimagesearch.com/2025/10/27/build-a-vlc-playlist-generator-with-smolvlm-for-video-highlight-tagging/?utm_source=Drip&utm_medium=Email&utm_campaign=WeeklyUpdate&utm_content=27Oct2025NonUnivLink4
+- https://zeek.org/get-zeek/
+
