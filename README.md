@@ -10,6 +10,7 @@
 - https://github.com/crewsaidarr
 - https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak
 - https://github.com/CrewsAIdarr/CrewsAIdarr
+- https://github.com/openai/codex/issues/1308
 - https://docs.crewai.com/en/concepts/llms#3-direct-code
 - https://gemini.google.com/app
 - https://github.com/CrewsAIdarr/polyglot-benchmark
@@ -128,6 +129,20 @@
 - https://bitwarden.com/help/install-on-premise-linux/#script-commands-reference
 - https://community.bitwarden.com/t/self-hosted-error/92524/3
 - https://github.com/wgtunnel/wgtunnel
+- https://lists.fedorahosted.org/archives/list/freeipa-users@lists.fedorahosted.org/thread/4S4QQDC4FBVTA4GYWWVBPKGYN3MF4UJ6/
+- https://serverfault.com/questions/1032160/unable-to-log-in-to-freeipa-web-ui-login-failed-due-to-an-unknown-reason
+- https://github.com/freeipa/freeipa-letsencrypt/blob/master/setup-le.sh
+- https://gist.github.com/unevenpancake/761d0e7e1b4b85b1c1e30fce1e5504c0
+- https://www.identrust.com/support/downloads
+- https://github.com/freeipa/freeipa.github.io/blob/main/src/page/Certificate_Authority.rst
+- https://community.letsencrypt.org/t/trying-to-get-a-freeipa-csr-signed-by-letsencrypt/129264
+- https://community.letsencrypt.org/t/freeipa-letsencrypt/237966/17
+- https://github.com/freeipa/ansible-freeipa/issues/167
+- https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/linux_domain_identity_authentication_and_policy_guide/third-party-certs-http-ldap
+- https://pagure.io/freeipa/issue/5070
+- https://pagure.io/freeipa/issue/9802
+- https://github.com/freeipa/freeipa-letsencrypt/pull/54
+
 
 # Bokbot
 
@@ -251,6 +266,11 @@
 - https://vite.dev/
 - https://gateway-api.sigs.k8s.io/guides/getting-started/migrating-from-ingress/
 - https://github.com/kubernetes-sigs/ingress2gateway
+- https://github.com/goharbor/harbor-helm/issues/2185#issuecomment-2933982894
+- https://github.com/goharbor/harbor/issues/22004#issuecomment-2901895190
+- https://kind.sigs.k8s.io/docs/user/local-registry/
+- https://github.com/reactive-tech/kubegres/issues/196
+- https://github.com/opensearch-project/opensearch-k8s-operator/blob/main/docs/userguide/main.md
 
 # Kubeflow / Airflow
 
@@ -522,7 +542,6 @@
 # Windoze
 
 - https://github.com/ntdevlabs/tiny11builder
-
 
 # Uncategorized WIP
 
