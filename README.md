@@ -444,6 +444,26 @@
 - https://nextjs.org/docs/app/api-reference/cli/create-next-app
 - https://github.com/vercel/next.js/tree/canary/examples/with-passport-and-next-connect
 
+# Oblivion
+
+https://en.uesp.net/wiki/Oblivion:Useful_Spells#Friendly_Fire
+https://en.uesp.net/wiki/Oblivion:Disintegrate_Weapon
+https://en.uesp.net/wiki/Oblivion:Spell_Making
+https://en.uesp.net/wiki/Oblivion:Lum_gro-Baroth
+https://elderscrolls.fandom.com/wiki/Illusion_Spells_(Oblivion)
+https://elderscrolls.fandom.com/wiki/Touch_of_Rage
+https://en.uesp.net/wiki/Oblivion:Resist_Magic
+https://en.uesp.net/wiki/Oblivion:Arena_Combatants#Other_Armor
+https://en.uesp.net/wiki/Oblivion:Paradise_(quest)
+https://elderscrolls.fandom.com/wiki/Console_Commands_(Oblivion)/Jewelry#Named_2
+https://forums.uesp.net/viewtopic.php?f=6&t=14072
+https://en.uesp.net/wiki/Oblivion:Nocturnal
+https://en.uesp.net/wiki/Oblivion:Trainers#Mysticism
+https://en.uesp.net/wiki/Oblivion:Through_A_Nightmare,_Darkly
+https://en.uesp.net/wiki/Oblivion:Useful_Spells
+https://en.uesp.net/wiki/Oblivion:Necromancer%27s_Moon
+https://en.uesp.net/wiki/Oblivion:Trainers#Mysticism
+
 # Omarchy / Arch
 
 - https://wiki.archlinux.org/title/Limine#Boot_entry_automation
