@@ -271,6 +271,15 @@
 - https://kind.sigs.k8s.io/docs/user/local-registry/
 - https://github.com/reactive-tech/kubegres/issues/196
 - https://github.com/opensearch-project/opensearch-k8s-operator/blob/main/docs/userguide/main.md
+- https://collabnix.github.io/kubetools/#alternative-tools-for-development
+- https://github.com/controlplaneio/simulator
+- https://github.com/linode/apl-core
+- https://github.com/xiaods/k8e
+- https://collabnix.com/streamlining-kubernetes-networking-with-k8s-insider/
+- https://collabnix.com/deploying-ray-on-kubernetes/
+- https://github.com/kubetoolsca/krs
+- https://github.com/redhuntlabs/KubeStalk
+- https://dev.to/thenjdevopsguy/kubeshark-the-wireshark-for-kubernetes-3a72
 
 # Kubeflow / Airflow
 
@@ -479,6 +488,7 @@
 # Storage
 
 - https://github.com/orgs/openebs/discussions/4149
+- https://github.com/jimsalterjrs/sanoid
 - https://alpinelinux.org/posts/2025-10-01-usr-merge.html
 - https://rook.io/docs/rook/latest/Getting-Started/quickstart/#create-a-ceph-cluster
 - https://gist.github.com/ruanbekker/fcc906bdcb2fed5937f7ce73a97e1001
