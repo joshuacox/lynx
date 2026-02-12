@@ -303,6 +303,30 @@
 
 - https://exercism.org/
 - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/collaborating-on-repositories-with-code-quality-features/troubleshooting-required-status-checks
+- https://mammothclub.com/
+- https://github.com/crewAIInc/crewAI?tab=readme-ov-file#getting-started
+- https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/eusjw/create-agents-to-research-and-write-an-article-(code)
+- https://www.99darshan.com/posts/interactive-maps-using-nextjs-and-google-maps
+- https://cloudinary.com/blog/guest_post/embed-openstreetmap-in-a-next-js-project
+- https://github.com/achingachris/openstreetmap-nextjs
+- https://github.com/plhery/node-twitter-api-v2/blob/HEAD/doc/examples.md#post-a-new-tweet-with-multiple-images
+- https://developer.x.com/en/docs/tutorials/step-by-step-guide-to-making-your-first-request-to-the-twitter-api-v2
+- https://github.com/colbyfayock/next-leaflet-starter
+- https://github.com/naufaldi/nextjs-leaflet
+- https://leafletjs.com/examples/quick-start/
+- https://github.com/joshuacox/leaflet-test
+- https://github.com/plhery/node-twitter-api-v2/blob/HEAD/doc/examples.md
+- https://next-auth.js.org/providers/google
+- https://github.com/pdovhomilja/nextcrm-app
+- https://demo.nextcrm.io/en/sign-in
+- https://xxyqwq.github.io/ComfyBench/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+- https://nextjs.org/learn/dashboard-app
 
 # Markdown
 
