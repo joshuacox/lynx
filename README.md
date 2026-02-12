@@ -148,6 +148,7 @@
 
 - https://bokbot.com
 - https://github.com/Bokbot/roadmap
+- https://github.com/Bokbot/next-video
 - https://app.roboflow.com/bokbot/
 - https://www.thefarmerscupboard.com/blogs/chickens-poultry/best-automatic-chicken-coop-door
 - https://huggingface.co/spaces/IceKhoffi/ChickSense
@@ -360,6 +361,7 @@
 # Learning
 
 - https://exercism.org/
+- https://educationdojo.com/
 - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/collaborating-on-repositories-with-code-quality-features/troubleshooting-required-status-checks
 - https://mammothclub.com/
 - https://github.com/crewAIInc/crewAI?tab=readme-ov-file#getting-started
@@ -422,6 +424,9 @@
 - https://www.navidrome.org/docs/usage/pids/
 - https://github.com/Blakeem/Navidrome-MCP?tab=readme-ov-file
 - https://www.navidrome.org/docs/usage/smartplaylists/
+- https://magenta.withgoogle.com/studio
+- https://github.com/kmatheussen/radium
+- https://synthandsoftware.com/2020/03/jim-aikins-modular-synthesis-for-beginners-series/
 
 # Name Generation
 
@@ -435,6 +440,9 @@
 - https://nextjs.org/docs/app/guides/self-hosting
 - https://nextjs.org/docs/app/getting-started/installation
 - https://nextjs.org/docs/pages/guides/static-exports
+- https://next-video.dev/docs
+- https://nextjs.org/docs/app/api-reference/cli/create-next-app
+- https://github.com/vercel/next.js/tree/canary/examples/with-passport-and-next-connect
 
 # Omarchy / Arch
 
@@ -531,6 +539,10 @@
 - https://github.com/seaweedfs/seaweedfs/tree/master/k8s/charts/seaweedfs
 - https://github.com/orgs/openebs/discussions/4149
 - https://github.com/seaweedfs/seaweedfs?tab=readme-ov-file#quick-start-with-weed-mini
+- https://github.com/openebs/velero-plugin
+- https://openebs.io/docs/user-guides/observability
+- http://openebs-monitoring.example.com/login
+- https://openebs.io/docs/concepts/architecture
 
 # Surveillance
 
@@ -606,4 +618,3 @@
 - https://docs.opencti.io/latest/deployment/integration-manager/configuration/
 - https://pyimagesearch.com/2025/10/27/build-a-vlc-playlist-generator-with-smolvlm-for-video-highlight-tagging/?utm_source=Drip&utm_medium=Email&utm_campaign=WeeklyUpdate&utm_content=27Oct2025NonUnivLink4
 - https://zeek.org/get-zeek/
-
