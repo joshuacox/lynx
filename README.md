@@ -1,7 +1,13 @@
 # lynx
 
+# 007
+
+- https://www.the-numbers.com/movies/franchise/James-Bond#tab=summary
+- https://en.wikipedia.org/wiki/List_of_James_Bond_vehicles#disco_volante
+
 # AI agents
 
+- https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak
 - https://opencode.ai/
 - https://sillytavern.app/
 - https://docs.litellm.ai/docs/proxy/deploy#quick-start
