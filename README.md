@@ -486,6 +486,7 @@ https://en.uesp.net/wiki/Oblivion:Trainers#Mysticism
 - https://wiki.archlinux.org/title/NVIDIA
 - https://wiki.archlinux.org/title/WireGuard
 - https://wiki.archlinux.org/title/Perl
+- Manual Partitioning https://github.com/basecamp/omarchy/discussions/1651
 
 
 # Opensearch
