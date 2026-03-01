@@ -9,6 +9,7 @@
 
 - https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak
 - https://opencode.ai/
+- https://github.com/ZiiMs/Grove
 - https://sillytavern.app/
 - https://docs.litellm.ai/docs/proxy/deploy#quick-start
 - https://github.com/ggml-org/whisper.cpp
