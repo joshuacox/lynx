@@ -213,6 +213,7 @@
 # Embedded
 
 - https://x.com/internetofshit
+- https://github.com/espressif/esp-adf/tree/master/examples/protocols/esp-rtsp
 - https://components.espressif.com/components/espp/rtsp/versions/1.0.34/readme
 - https://github.com/espressif/esp-detection
 - https://www.seeedstudio.com/blog/upcomingevents/?srsltid=AfmBOoo0SK16pNCvcPhixIBAzZD7OY2fJKXj_JTxTBwK34OgufrXoHtI
